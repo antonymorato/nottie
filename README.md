@@ -1,4 +1,5 @@
-# nottie
+# Nottie
+[![Codemagic build status](https://api.codemagic.io/apps/60ab134daaa50cc889bef5b5/60ab134daaa50cc889bef5b4/status_badge.svg)](https://codemagic.io/apps/60ab134daaa50cc889bef5b5/60ab134daaa50cc889bef5b4/latest_build)
 
 A new Flutter project.
 
