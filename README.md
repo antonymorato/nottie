@@ -1,6 +1,8 @@
 # Nottie
 [![Codemagic build status](https://api.codemagic.io/apps/60ab134daaa50cc889bef5b5/60ab134daaa50cc889bef5b4/status_badge.svg)](https://codemagic.io/apps/60ab134daaa50cc889bef5b5/60ab134daaa50cc889bef5b4/latest_build)
 
+[![Build Status](https://app.bitrise.io/app/5f3894500ee6a2fa/status.svg?token=s0ZlC55UbhQDnPAS7Gn42Q&branch=main)](https://app.bitrise.io/app/5f3894500ee6a2fa)
+
 A new Flutter project.
 
 ## Getting Started

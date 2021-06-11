@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386797135291",
+    "project_id": "nottie-911f6",
+    "storage_bucket": "nottie-911f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386797135291:android:1569b11ae157746aa9909e",
+        "android_client_info": {
+          "package_name": "com.nottie.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386797135291-pe333d6cegog2e1jbi2jc5bbcd8tr8kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWS9Ij7uHmR2AU4NrRvktR5kSN19_BNHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386797135291-pe333d6cegog2e1jbi2jc5bbcd8tr8kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
