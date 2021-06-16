@@ -1,4 +1,4 @@
-package com.example.nottie
+package com.nottie.app
 
 import io.flutter.embedding.android.FlutterActivity
 
